@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.29c03625.css",
+    "main.js": "/static/js/main.7a572a26.js",
+    "static/media/biscoito.png": "/static/media/biscoito.0257179c353669f381ac.png",
+    "index.html": "/index.html",
+    "main.29c03625.css.map": "/static/css/main.29c03625.css.map",
+    "main.7a572a26.js.map": "/static/js/main.7a572a26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29c03625.css",
+    "static/js/main.7a572a26.js"
+  ]
+}
