@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.29c03625.css",
-    "main.js": "/static/js/main.7a572a26.js",
-    "static/media/biscoito.png": "/static/media/biscoito.0257179c353669f381ac.png",
-    "index.html": "/index.html",
-    "main.29c03625.css.map": "/static/css/main.29c03625.css.map",
-    "main.7a572a26.js.map": "/static/js/main.7a572a26.js.map"
+    "main.css": "/biscoito/static/css/main.29c03625.css",
+    "main.js": "/biscoito/static/js/main.72d1801e.js",
+    "static/media/biscoito.png": "/biscoito/static/media/biscoito.0257179c353669f381ac.png",
+    "index.html": "/biscoito/index.html",
+    "main.29c03625.css.map": "/biscoito/static/css/main.29c03625.css.map",
+    "main.72d1801e.js.map": "/biscoito/static/js/main.72d1801e.js.map"
   },
   "entrypoints": [
     "static/css/main.29c03625.css",
-    "static/js/main.7a572a26.js"
+    "static/js/main.72d1801e.js"
   ]
 }
